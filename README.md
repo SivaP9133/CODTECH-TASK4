@@ -65,6 +65,17 @@ This code sets up a functional to-do list application where users can:
    - Delete individual or all tasks.
    - Track the count of completed and total tasks.
 
-The layout is structured and styled via `style.css`, with icons and dynamic interactions powered by `index.js`. This setup allows for a modular and interactive to-do list that users can easily manage.
+The layout is structured and styled via style.css, with icons and dynamic interactions powered by index.js. This setup allows for a modular and interactive to-do list that users can easily manage.
 
-# <ins>OUTPUT</ins>  
+# <ins>OUTPUT</ins>:
+
+![screencapture-sivap9133-github-io-CODTECH-TASK4-2024-11-15-15_59_41](https://github.com/user-attachments/assets/819a4151-bb20-454a-b53e-2c6d5434b56c)  
+
+![screencapture-sivap9133-github-io-CODTECH-TASK4-2024-11-15-15_39_28](https://github.com/user-attachments/assets/4586999d-2841-4fd2-944b-aff21e53ac7f)  
+
+![screencapture-sivap9133-github-io-CODTECH-TASK4-2024-11-15-15_41_32](https://github.com/user-attachments/assets/81e55514-6811-4dc0-9130-a739a1b5102c)  
+
+![Screenshot 2024-11-15 154842 - Copy](https://github.com/user-attachments/assets/eb90cc9a-c153-4d00-a9ed-5f0a910409d7)  
+
+
+
