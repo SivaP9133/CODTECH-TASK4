@@ -1,6 +1,10 @@
-**<ins>Name</ins>:-** POGIRI SIVA  
+# CODTECH-TASK4  
 
-**<ins>COMPANY</ins>:-** CODTECH IT SOLUTION
+## <ins>PROJECT NAME</ins> :- TO-DO LIST APPLICATION WITH LOGICAL STORAGE  
+
+**<ins>NAME</ins>:-** POGIRI SIVA  
+
+**<ins>COMPANY NAME</ins>:-** CODTECH IT SOLUTIONS
 
 **<ins>ID</ins>:-** CT12DS2488  
 
@@ -8,6 +12,4 @@
 
 **<ins>DURATION</ins>:-** SEPTEMBER 20th,2024 to NOVEMBER 20th,2024
 
-**<ins>Mentor</ins>:-** NEELA SNTHOSH KUMAR  
-
-# <ins>Project Name</ins> :- TO-DO LIST APPLICATION WITH LOGICAL STORAGE  
+**<ins>MENTOR</ins>:-** NEELA SNTHOSH KUMAR   
